@@ -16,6 +16,7 @@ kizi.cm
 01jeux.net
 020jkjk.com
 07video.com
+1games.io
 1000-spiele.de
 10000jeux.com
 10000juegos.com
@@ -675,6 +676,7 @@ barter.vg
 baseattackforce.com
 baseballbros.io
 basketball-rpg.net
+basketbros.io
 basketsim.com
 bat.org
 batallitas.com
@@ -5960,6 +5962,7 @@ playtosor.net
 playtracker.net
 playvalorant.com
 playviking.com
+playvio.io
 playzone.cz
 pleindejeuxflash.com
 pleu.net
@@ -6354,6 +6357,7 @@ robostrike.com
 robotduck.com
 robsrpg.bravehost.com
 rocketsnail.com
+rocketgames.io
 rocksolidarcade.com
 rod.org
 rodneysplace.com
@@ -6690,6 +6694,9 @@ soccermanager.com
 soccermanager.forumactif.com
 soccerproject.com
 soccerstar.cz
+soccerbros.gg
+soccerbros.cc
+soccerbros.net
 sociolotron.amerabyte.com
 soeldnerdesschattens.de
 softnyx-latino.net
